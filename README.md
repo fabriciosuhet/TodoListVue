@@ -1,28 +1,29 @@
-# todo-list
+# Lista de Tarefas (todo-list)
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Configuração Recomendada de IDE
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Personalizar Configuração
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Veja a [Referencia de configuração do Vite](https://vite.dev/config/).
 
-## Project Setup
+## Configuração do Projeto
+Instale as dependências com o comando:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar e Habilitar o Hot-Reload para Desenvolvimento
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar e Minificar para Produção
 
 ```sh
 npm run build
