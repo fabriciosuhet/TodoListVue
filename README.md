@@ -1,6 +1,6 @@
 # Lista de Tarefas (todo-list)
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicação front-end com Vue 3 para consumir API.NET: (https://github.com/fabriciosuhet/TodoListTest)
 
 ## Configuração Recomendada de IDE
 
