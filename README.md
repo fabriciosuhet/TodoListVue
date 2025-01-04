@@ -11,6 +11,10 @@ Aplicação front-end com Vue 3 para consumir API.NET: (https://github.com/fabri
 Veja a [Referencia de configuração do Vite](https://vite.dev/config/).
 
 ## Configuração do Projeto
+
+### Versão do npm: 10.8.2
+### Versão do node: 20.18.0
+
 Instale as dependências com o comando:
 
 ```sh
